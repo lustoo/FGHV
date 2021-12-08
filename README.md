@@ -15,8 +15,8 @@ Please consider citing our paper in your publications if the project helps your 
 @inproceedings{Liu_2022_AAAI,
   title={Feature Generation and Hypothesis Verification for Reliable Face Anti-Spoofing},
   author={Shice Liu, Shitao Lu, Hongyi Xu, Jing Yang, Shouhong Ding, Lizhuang M},
-  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
-  pages={Thirty-Sixth AAAI Conference on Artificial Intelligence (AAAI)},
+  booktitle={Thirty-Sixth AAAI Conference on Artificial Intelligence (AAAI)},
+  pages={},
   year={2022}
 }
 
