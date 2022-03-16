@@ -28,7 +28,7 @@ Comparison to face anti-spoofing methods on the cross-dataset testing task for d
 
 <div align=center>
 
-<img src="https://github.com/lustoo/FGHV/blob/main/figures/table_four.jpg" width = "600"  />
+<img src="https://github.com/lustoo/FGHV/blob/main/figures/table_four.png" width = "600"  />
 
 </div>
 
@@ -36,11 +36,13 @@ Comparison to face anti-spoofing methods on the cross-type testing task for doma
 
 <div align=center>
 
-<img src="https://github.com/lustoo/FGHV/blob/main/figures/table_siwm.jpg" width = "850"  />
+<img src="https://github.com/lustoo/FGHV/blob/main/figures/table_siwm.png" width = "850"  />
 
 </div>
 
 ## Visualization
+
+The t-SNE visualization of the face feature:
 
 <div align=center>
 
