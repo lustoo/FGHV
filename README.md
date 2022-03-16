@@ -3,7 +3,7 @@ Impelmentation for paper Feature Generation and Hypothesis Verification for Reli
 
 The comparation with other FAS methods:
 
-![avatar](https://github.com/lustoo/FGHV/blob/main/figures/compare_with_others.jpg)
+<img src="https://github.com/lustoo/FGHV/blob/main/figures/compare_with_others.jpg" width = "500" />
 
 The overview of the proposed FGHV framework:
 
