@@ -1,6 +1,10 @@
 # FGHV
 Impelmentation for paper Feature Generation and Hypothesis Verification for Reliable Face Anti-Spoofing
 
+The overview of the proposed FGHV framework:
+
+
+
 ## Requirements
 
 - Python 3.6 
@@ -16,7 +20,6 @@ Please consider citing our paper in your publications if the project helps your 
   title={Feature Generation and Hypothesis Verification for Reliable Face Anti-Spoofing},
   author={Shice Liu, Shitao Lu, Hongyi Xu, Jing Yang, Shouhong Ding, Lizhuang M},
   booktitle={Thirty-Sixth AAAI Conference on Artificial Intelligence (AAAI)},
-  pages={},
   year={2022}
 }
 
