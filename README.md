@@ -22,13 +22,28 @@ Although existing face anti-spoofing (FAS) methods achieve high accuracy in intr
 
 </div>
 
+## Experiments 
+
+
+
+
+
+## Visualization
+
+<div align=center>
+
+<img src="https://github.com/lustoo/FGHV/blob/main/figures/tsne.jpg" width = "600"  />
+
+</div>
+
 ## Requirements
 
 - Python 3.6 
 - Pytorch 1.5.0
 - Cuda 10.1
+- Python packages: `pip install numpy opencv-python wandb easydict omegaconf timm albumentations lmdb`
 
-# Training
+## Training
 
 To run the train file in distributedDataParallel model :
 
