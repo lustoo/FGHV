@@ -1,9 +1,13 @@
 # FGHV
 Impelmentation for paper Feature Generation and Hypothesis Verification for Reliable Face Anti-Spoofing
 
+The comparation with other FAS methods:
+
+![avatar](https://github.com/lustoo/FGHV/blob/main/figures/compare_with_others.jpg)
+
 The overview of the proposed FGHV framework:
 
-
+![avatar](https://github.com/lustoo/FGHV/blob/main/figures/main_framework.jpg)
 
 ## Requirements
 
