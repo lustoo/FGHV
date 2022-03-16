@@ -8,7 +8,10 @@
 Shice Liu, Shitao Lu, Hongyi Xu, Jing Yang, Shouhong Ding, Lizhuang Ma
 
 Youtu Lab, Tencent, Shanghai, China
-East China Normal University, Shanghai, China Shanghai Jiao Tong University, Shanghai, China
+
+East China Normal University, Shanghai, China 
+
+Shanghai Jiao Tong University, Shanghai, China
 
 (Official PyTorch Implementation)
 
