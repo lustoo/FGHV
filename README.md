@@ -18,15 +18,27 @@ Although existing face anti-spoofing (FAS) methods achieve high accuracy in intr
 
 <div align=center>
 
-<img src="https://github.com/lustoo/FGHV/blob/main/figures/main_framework.jpg" width = "800"  />
+<img src="https://github.com/lustoo/FGHV/blob/main/figures/main_framework.jpg" width = "850"  />
 
 </div>
 
 ## Experiments 
 
+Comparison to face anti-spoofing methods on the cross-dataset testing task for domain generalization:
 
+<div align=center>
 
+<img src="https://github.com/lustoo/FGHV/blob/main/figures/table_four.jpg" width = "600"  />
 
+</div>
+
+Comparison to face anti-spoofing methods on the cross-type testing task for domain generalization:
+
+<div align=center>
+
+<img src="https://github.com/lustoo/FGHV/blob/main/figures/table_siwm.jpg" width = "850"  />
+
+</div>
 
 ## Visualization
 
