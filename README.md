@@ -1,5 +1,6 @@
 # FGHV
 
+Code will be released on https://github.com/Tencent/TFace/tree/master/security/tasks/Face-Anti-Spoofing
 
 <a href=https://arxiv.org/pdf/2112.14894.pdf>Impelmentation for paper Feature Generation and Hypothesis Verification for Reliable Face Anti-Spoofing</a>
 
